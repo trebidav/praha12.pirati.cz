@@ -15,3 +15,5 @@ profiles:
 ---
 
 David Třebický (* 13. ledna 1993) je registrovaným příznivcem Pirátské strany.
+
+A je nejlepší uživatel gitu!
